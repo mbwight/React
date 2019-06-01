@@ -14,3 +14,7 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 ```
 $ npm run watch
 ```
+
+## About
+
+This is my resume but tested on React. It is mainly in JSX.
